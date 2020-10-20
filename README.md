@@ -17,6 +17,7 @@
 
 Principais ferramentas utilizadas na construção do backend:
 
+- React
 - Axios
 - Styled Components
 
